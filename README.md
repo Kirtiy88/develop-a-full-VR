@@ -3,7 +3,7 @@
 
 <b>Discipline | annu dutt
 :--|:--|
-<b> Lab | <b> Fill your lab name here
+<b> this is dev | <b> Fill your lab name here
 <b> Experiment|     <b> Fill your experiment name and number here
 
 ### About the Experiment 
