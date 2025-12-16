@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | annu dutt
+<b>Discipline | Information Technology
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual lab
+<b> Experiment|     <b> Project 29: Develop a full VR simulation where students can calculate the wavelength from their measurements . 
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Kirti Yadav
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Rajkiya Engineering College Banda 
+<b> Email id|    <b>  kirtiy8194@gmail.com
+<b> Department | Information Technology   
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Kirti Yadav | Student | Information Technology | Rajkiya Engineering College Banda | kirtiy8194@gmail.com
 2 | . | . | . | . | .
